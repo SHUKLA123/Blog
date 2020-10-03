@@ -1,1 +1,1 @@
-# cpblog 
+# Competitive Programming Blog
